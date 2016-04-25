@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[anachrony]]></title>
         <description><![CDATA[anachrony]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anachrony/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 13:44:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 14:08:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anachrony/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a28172a-631b-4d8d-9f73-d92383941292.jpg">]]></description>
+            <link>https://thegrid.ai/anachrony/animal-kingdom-is-about-to-get-a-spectacular-nighttime-show/index.html</link>
+            <guid isPermaLink="false">1eaa9c53-7e44-4425-92e3-f4d8a0a0bb0a</guid>
+            <pubDate>Mon, 25 Apr 2016 14:08:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/464304ee-7889-4968-9b8a-ea9053b9842f.jpg">]]></description>
-            <link>undefined864051ee-7a8f-443b-b3aa-cc57b3d5c307/index.html</link>
+            <link>https://thegrid.ai/anachrony/864051ee-7a8f-443b-b3aa-cc57b3d5c307/index.html</link>
             <guid isPermaLink="false">864051ee-7a8f-443b-b3aa-cc57b3d5c307</guid>
             <pubDate>Mon, 25 Apr 2016 13:44:52 GMT</pubDate>
         </item>
