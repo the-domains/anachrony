@@ -1,7 +1,7 @@
 name: anachrony
 favicon: null
-layout_spectrum: 0.7980338833294809
-typography_spectrum: 0.33836803724989295
+layout_spectrum: 1
+typography_spectrum: 0.19225
 title: anachrony
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9161089700646698
+  brandStrength: 0.0625
   lightness: 0.5055026370100677
   saturation: 0.2937794076278806
   rhythmicContrast: 0.9467920276802033
